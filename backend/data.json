@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Buddy",
+      "species": "Dog",
+      "age": 3,
+      "personality": "Friendly",
+      "mood": "Happy",
+      "adopted": false,
+      "adoption_date": null
+    },
+    {
+      "name": "Whiskers",
+      "species": "Cat",
+      "age": 2,
+      "personality": "Shy",
+      "mood": "Curious",
+      "adopted": true,
+      "adoption_date": "2024-12-15T00:00:00Z"
+    },
+    {
+      "name": "Rex",
+      "species": "Dog",
+      "age": 5,
+      "personality": "Aggressive",
+      "mood": "Irritated",
+      "adopted": false,
+      "adoption_date": null
+    },
+    {
+      "name": "Mittens",
+      "species": "Cat",
+      "age": 1,
+      "personality": "Playful",
+      "mood": "Excited",
+      "adopted": false,
+      "adoption_date": null
+    },
+    {
+      "name": "Charlie",
+      "species": "Dog",
+      "age": 4,
+      "personality": "Calm",
+      "mood": "Relaxed",
+      "adopted": true,
+      "adoption_date": "2025-03-02T00:00:00Z"
+    },
+    {
+      "name": "Luna",
+      "species": "Cat",
+      "age": 3,
+      "personality": "Friendly",
+      "mood": "Content",
+      "adopted": false,
+      "adoption_date": null
+    },
+    {
+      "name": "Max",
+      "species": "Dog",
+      "age": 2,
+      "personality": "Playful",
+      "mood": "Energetic",
+      "adopted": false,
+      "adoption_date": null
+    },
+    {
+      "name": "Shadow",
+      "species": "Cat",
+      "age": 6,
+      "personality": "Shy",
+      "mood": "Cautious",
+      "adopted": true,
+      "adoption_date": "2025-01-20T00:00:00Z"
+    },
+    {
+      "name": "Daisy",
+      "species": "Dog",
+      "age": 1,
+      "personality": "Friendly",
+      "mood": "Cheerful",
+      "adopted": false,
+      "adoption_date": null
+    },
+    {
+      "name": "Oliver",
+      "species": "Cat",
+      "age": 4,
+      "personality": "Calm",
+      "mood": "Sleepy",
+      "adopted": false,
+      "adoption_date": null
+    }
+  ]
+  
