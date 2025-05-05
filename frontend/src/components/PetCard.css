@@ -1,0 +1,20 @@
+.pet-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 1rem;
+    transition: transform 0.3s ease;
+  }
+  
+  .pet-card:hover {
+    transform: scale(1.02);
+  }
+  .card {
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.03);
+  }
+  
+  
